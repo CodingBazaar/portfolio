@@ -1,3 +1,3 @@
 <?php
-  echo "Thank you, I will reach as soon as possible";
+  echo "Contacting failed as receipiant email not set up";
 ?>
